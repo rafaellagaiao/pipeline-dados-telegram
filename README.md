@@ -14,6 +14,7 @@ Automatizar um fluxo de dados (ETL) com envio de mensagens para um grupo ou usu�
 * AWS - armazenamento, automação e processamento dos dados
 
 📁 Estrutura do Projeto
+
 ├── pipeline_telegram.ipynb    # Notebook com o pipeline e integração com Telegram
 
 ├── README.md                  # Este arquivo
